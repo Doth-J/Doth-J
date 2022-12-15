@@ -1,6 +1,6 @@
-- 👋 Hi, I’m **@Doth-J**
+- 👋 Hi there, I’m **@Doth-J**
 - 👀 Network Security, Blockchains, Quantum Computing.
-- 🌱 Currently learning NextJs, Tailwindcss, Flutter
+- 🌱 Currently learning Rust, Twine and RenJS
 
 <!---
 Doth-J/Doth-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
