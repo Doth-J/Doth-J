@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m **@Doth-J**
 - 👀 Network Security, Blockchains, Quantum Computing.
 - 💻 Java, Python, Typescript, Solidity
-- 🌱 Currently learning Rust, GO, Twine and RenJS
+- 🌱 Currently learning Rust, GO, Twine and Phaser
 
 <!---
 Doth-J/Doth-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
