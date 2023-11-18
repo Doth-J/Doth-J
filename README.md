@@ -16,7 +16,7 @@
 
 ## Projects
 [![SSH-Kalibox](https://github-readme-stats.vercel.app/api/pin/?username=doth-j&repo=ssh-kalibox&bg_color=fff&title_color=2835af&text_color=000&icon_color=2835af)](https://github.com/Doth-J/node-red-contrib-json-logic)
-[![Node-Incubator](https://github-readme-stats.vercel.app/api/pin/?username=doth-j&repo=node-red-node-incubator&bg_color=fff&title_color=2835af&text_color=000&icon_color=2835af)](https://github.com/Doth-J/node-red-contrib-json-logic)
+[![Node-Incubator](https://github-readme-stats.vercel.app/api/pin/?username=doth-j&repo=nodered-node-incubator&bg_color=fff&title_color=2835af&text_color=000&icon_color=2835af)](https://github.com/Doth-J/node-red-contrib-json-logic)
 [![Json-Logic](https://github-readme-stats.vercel.app/api/pin/?username=doth-j&repo=node-red-contrib-json-logic&bg_color=fff&title_color=2835af&text_color=000&icon_color=2835af)](https://github.com/Doth-J/node-red-contrib-json-logic)
 
 
