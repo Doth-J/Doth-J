@@ -1,5 +1,5 @@
 <h1 align="center">
-        <samp> &gt; Hello World, I'm <b>Doth-J</b></samp>
+        <samp> &gt; Hello World</b></samp>
 </h1>
 <h3 align="center"> 
   <samp>
