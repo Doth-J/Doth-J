@@ -9,7 +9,6 @@
 
 - ![Java](https://img.shields.io/badge/Java-DC0032?style=plastic&labelColor=white)
 ![Python](https://img.shields.io/badge/Python-3775A9?style=plastic&labelColor=white&logo=PyPI&logoColor=3775A9)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=plastic&labelColor=white&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=plastic&labelColor=white&logo=typescript&logoColor=007acc)
 ![Rust](https://img.shields.io/badge/Rust(Learning...)-000?style=plastic&labelColor=white&logo=rust&logoColor=000)
 - 💻 Gamification, Blockchains and Network Security.
