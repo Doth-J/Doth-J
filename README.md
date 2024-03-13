@@ -1,5 +1,5 @@
 <h1 align="center">
-        <samp> $ Hello World</b></samp>
+        <samp> doth@github:~$ Hello World</b></samp>
 </h1>
 <h3 align="center"> 
   <samp>
