@@ -12,7 +12,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=plastic&labelColor=white&logo=typescript&logoColor=007acc)
 ![Rust](https://img.shields.io/badge/Rust(Learning...)-000?style=plastic&labelColor=white&logo=rust&logoColor=000)
 - 💻 Gamification, Blockchains and Network Security.
-- 🌱 Currently learning Rust, GO, and BunJS
+- 🌱 Currently learning Rust, GO, and Bun
 
 <!---
 Doth-J/Doth-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
